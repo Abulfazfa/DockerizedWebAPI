@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u+MWfTlMF6QoLhx+UY3MjniTNf9jb3WfCDY9O+oowgc=",
+  "Source": "Dockerized",
+  "BasePath": "_content/Dockerized",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
