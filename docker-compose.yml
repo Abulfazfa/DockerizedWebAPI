@@ -1,9 +1,8 @@
-version: '3.8'
 services:
   api:
     build:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "80:80"  # Tətbiq 80 portunda işləməlidir
+      - "80:8080" 
     restart: always
